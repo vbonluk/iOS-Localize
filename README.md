@@ -82,6 +82,26 @@ AppStringsTranslator
 		
 	python ${SRCROOT}/RunScript/AutoGenStrings.py ${SRCROOT}/${TARGET_NAME} //参数为StoryBoard，XIB所在目录
 
+更新：
+
+再提供一个Alfred的workflows给大家，方便在代码中新增NSLocalizedString(key, comment)语句。文件名：fy.alfredworkflow
+
+作用展示：
+
+新建
+
+![](http://oapglm9vz.bkt.clouddn.com/1486782948.png )
+
+![](http://oapglm9vz.bkt.clouddn.com/1486783009.png )
+
+复用
+
+
+![](http://oapglm9vz.bkt.clouddn.com/1486783120.png )
+
+![](http://oapglm9vz.bkt.clouddn.com/1486783089.png )
+
+
 上面的文件我放在了这里：<https://github.com/vbonluk/iOS-Localize>
 
 原创作品，欢迎转载，转载请声明出处：<http://www.真无聊.com>
